@@ -6,7 +6,7 @@ var enemyImage;
 
 function preload() {
     playerImage = loadImage("https://surrogate.hackedu.us/i.imgur.com/N5uCbDu.png");
-    enemyImage = loadImage("https://surrogate.hackedu.us/i.imgyr.com/OdL0XPt.png");
+    enemyImage = loadImage("https://surrogate.hackedu.us/i.imgur.com/OdL0XPt.png");
     backgroundImage = loadImage("https://surrogate.hackedu.us/i.imgur.com/aKQOg3G.png");
 }
 
